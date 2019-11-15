@@ -1,0 +1,5 @@
+mode: atomic
+/Users/mac/Documents/joDemo/example-go/example_go.go:7.24,11.14 1 1
+/Users/mac/Documents/joDemo/example-go/example_go.go:16.5,16.29 1 1
+/Users/mac/Documents/joDemo/example-go/example_go.go:11.14,13.6 1 0
+/Users/mac/Documents/joDemo/example-go/example_go.go:20.25,28.2 1 1
