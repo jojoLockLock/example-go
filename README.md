@@ -1,4 +1,4 @@
-[Codecov][1] Go Example
+[Codecov][1] Go Example 2
 =======================
 
 This repository serves as an **example** on how to use [Codecov Global][4] for Go.
